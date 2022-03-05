@@ -1,0 +1,3 @@
+rootProject.name = "WhiteRabbitApp"
+include ':app'
+include ':networkModule'
